@@ -61,7 +61,6 @@
 
 - [`dubbo-go`](https://github.com/apache/dubbo-go) — 审查中（[PR #3590](https://github.com/apache/dubbo-go/pull/3590)、[PR #3607](https://github.com/apache/dubbo-go/pull/3607)）
 - [`envoy`](https://github.com/envoyproxy/envoy) — 文档修改，已合并（[PR #46098](https://github.com/envoyproxy/envoy/pull/46098)）
-- [`nginx`](https://github.com/nginx/nginx) — 代码实现与 review，未合并（[PR #1462](https://github.com/nginx/nginx/pull/1462)）
 
 #### (3) 积极寻找实习机会
 
@@ -137,7 +136,6 @@ Actively exploring and embracing open source:
 
 - [`dubbo-go`](https://github.com/apache/dubbo-go) — Under review（[PR #3590](https://github.com/apache/dubbo-go/pull/3590)、[PR #3607](https://github.com/apache/dubbo-go/pull/3607)）
 - [`envoy`](https://github.com/envoyproxy/envoy) — Documentation fix, merged（[PR #46098](https://github.com/envoyproxy/envoy/pull/46098)）
-- [`nginx`](https://github.com/nginx/nginx) — Code implementation & review, pending（[PR #1462](https://github.com/nginx/nginx/pull/1462)）
 
 #### (3) Actively Seeking Internship Opportunities
 
