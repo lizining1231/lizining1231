@@ -147,3 +147,5 @@ It's called **豆浆技术 🐋** (Soybean Tech), where I document interesting p
 - [QPS Crashed 95% Twice: A Rookie's First Performance Debugging Journey Through 7 Pitfalls](https://mp.weixin.qq.com/s/Kn-uA6J0l83c6KVfErxMQQ) — A complete, honest account of debugging a 95% QPS drop, from chasing `docker-proxy` to uncovering the `tcp_tw_reuse` kernel parameter, detailing 7 common misconceptions, with Linux kernel source code and Little's Law used to reason about the root cause.
 - [P99 Jitter Caused by Shared Buffer — Why Buffer and Connection Classes Are Essential](https://mp.weixin.qq.com/s/EwHW-IwffJhSDk-1ugwRyg) — A deep dive into troubleshooting erratic P99 latency, uncovering the "shared buffer" ghost bug through 20 rounds of stress testing, and the natural evolution of Buffer and Connection classes.
 - [How to Refactor a Blocking I/O Server into a Network Library (Part 1)](https://mp.weixin.qq.com/s/KNp1CZ7ru5DRf3h-drm0Lw) — A detailed walkthrough of my 9-step refactoring journey from a blocking server to a component-based network library architecture.
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lizining1231.lizining1231)
