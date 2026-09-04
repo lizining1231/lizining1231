@@ -57,10 +57,9 @@
 
 #### (2) 开源社区贡献
 
-正在积极接触开源，拥抱开源，尝试参与以下项目：
+正在积极接触开源，拥抱开源，参与以下项目：
 
-- [`dubbo-go`](https://github.com/apache/dubbo-go) — 审查中（[PR #3590](https://github.com/apache/dubbo-go/pull/3590)、[PR #3607](https://github.com/apache/dubbo-go/pull/3607)）
-- [`envoy`](https://github.com/envoyproxy/envoy) — 文档修改，已合并（[PR #46098](https://github.com/envoyproxy/envoy/pull/46098)）
+- [`dubbo-go`](https://github.com/apache/dubbo-go) — 在做triple协议的性能分析与优化https://github.com/apache/dubbo-go/discussions/3673
 
 #### (3) 积极寻找实习机会
 
