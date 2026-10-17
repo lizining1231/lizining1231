@@ -7,12 +7,13 @@
 
 ### 🧑🏻‍🎓 关于我
 
-- **学历**：浙江工业大学 **·** 公共事业管理 **·** 大一
+- **学历**：浙江工业大学 **·** 公共事业管理 **·** 大二在读
   
 - **语言**：
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <br />
   
 - **技术栈**：
